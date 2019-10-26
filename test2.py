@@ -1,1 +1,0 @@
-print("intro pycharm lab")
