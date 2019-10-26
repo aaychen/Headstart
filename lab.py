@@ -1,0 +1,1 @@
+print("Intro pycharm lab")
